@@ -3,7 +3,10 @@
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
 [![Jupyter](https://img.shields.io/badge/-Jupyter-000?&logo=Jupyter&logoColor=ddc508)](https://github.com/adamalston?tab=repositories&q=&type=&language=Jupyter)
 
-I am **a Financial Controller** with 5 years of experience in fast-paced accounting environment. A proactive, dedicated, and hard-working employee with  interpersonal skills. Areas of expertise include...
+I am **a Financial Controller** with 5 years of experience in a fast-paced accounting environment. A proactive, dedicated, and hard-working employee with  interpersonal skills. Areas of expertise include financial accounting, management accounting, Dutch Taxation (VAT, CIT, Income Taxes), Financing, and Administrative Organization. Besides all that, I really enjoy reviewing different companies' internal (financial) environments and improving them to a more professional and automated level. 
+
+In 2021 I will start my Master's Degree in International Finance (Finance and Technology Track) at the University of Amsterdam. During this program, I wish to increase my financial knowledge, obtain new technical skills and insights, and combine these disciplines in my future career. 
+
 
 - 🔭 I’m currently growing my skillset in Python applications within international banking and finance
 - ⚡ I’m a part of [Executive MSc in International Finance (MIF)](https://abs.uva.nl/content/executive-master/master-in-international-finance-mif/master-in-international-finance.html?cb&cb)
