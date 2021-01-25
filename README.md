@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
 [![Jupyter](https://img.shields.io/badge/-Jupyter-000?&logo=Jupyter&logoColor=ddc508)](https://github.com/adamalston?tab=repositories&q=&type=&language=Jupyter)
 
-I am **a Financial Controller** with 5 years of experience at a fast-paced accounting firm. A proactive, dedicated, and hard-working employee with  interpersonal skills. Areas of expertise include financial accounting, management accounting, Dutch Taxation (VAT, CIT, Income Taxes), Financing, and Administrative Organisation. Besides all that, I really enjoy reviewing different companies' internal (financial) environments and improving them to a more professional and automated level. 
+I am **a Financial Controller** with 4 years of experience at a fast-paced accounting firm and over one year in business. A proactive, dedicated, and hard-working employee with interpersonal skills. Areas of expertise include financial accounting, management accounting, Dutch Taxation (VAT, CIT, Income Taxes), Financing, and Administrative Organisation. Besides all that, I really enjoy reviewing different companies' internal (financial) environments and improving them to a more professional and automated level. 
 
 
 - 🔭 I’m currently growing my skillset in Python applications within international banking and finance
